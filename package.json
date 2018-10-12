@@ -1,0 +1,8 @@
+{
+“name”: “greeter-bot”,
+“version”: “1.0.0”,
+“description”: “Dive into the world of Nasu”,
+“main”: “bot.js”,
+“author”: “The Phantom Bullet”,
+“dependencies”: {}
+}
