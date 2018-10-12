@@ -1,8 +1,11 @@
 {
-“name”: “greeter-bot”,
-“version”: “1.0.0”,
-“description”: “Dive into the world of Nasu”,
-“main”: “bot.js”,
-“author”: “The Phantom Bullet”,
-“dependencies”: {}
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description": "Dive into the world of Nasu",
+  "main": "bot.js",
+  "author": "The Phantom Bullet",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.1.0"
+  }
 }
